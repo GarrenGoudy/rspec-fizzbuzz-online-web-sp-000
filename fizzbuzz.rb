@@ -12,7 +12,3 @@ def fizzbuzz(int)
     "fizzbuzz"
 
 end
-end
-end
-
-end
