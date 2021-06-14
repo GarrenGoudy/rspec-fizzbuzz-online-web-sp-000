@@ -1,2 +1,16 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
+
+def fizzbuzz(int)
+  if int % 3 == 0 
+    "fizz"
+    
+  if int % 5 == 0
+    "buzz"
+    
+  if int % 3 == 0 and int % 5 == 0
+    "fizzbuzz"
+    
+  end
+end
+end
